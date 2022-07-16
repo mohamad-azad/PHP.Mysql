@@ -1,2 +1,2 @@
-# PHP.Mysql
+# mysql
 php library for mysql database
